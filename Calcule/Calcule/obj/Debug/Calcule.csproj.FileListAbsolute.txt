@@ -1,0 +1,10 @@
+C:\Users\Jihad\source\repos\Calcule\Calcule\bin\Debug\Calcule.exe.config
+C:\Users\Jihad\source\repos\Calcule\Calcule\bin\Debug\Calcule.exe
+C:\Users\Jihad\source\repos\Calcule\Calcule\bin\Debug\Calcule.pdb
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.csproj.AssemblyReference.cache
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.Form1.resources
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.Properties.Resources.resources
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.csproj.GenerateResource.cache
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.csproj.CoreCompileInputs.cache
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.exe
+C:\Users\Jihad\source\repos\Calcule\Calcule\obj\Debug\Calcule.pdb

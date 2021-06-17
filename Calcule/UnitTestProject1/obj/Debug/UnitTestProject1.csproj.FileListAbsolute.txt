@@ -1,0 +1,17 @@
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Calcule.exe
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Calcule.pdb
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Calcule.exe.config
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jihad\source\repos\Calcule\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
